@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-<img src="https://github.com/YunshiWen/yunshiwen.github.io/blob/main/assets/photo.JPG" width="200" style="float: right">
+<img src="./assets/photo.JPG" width="200" style="float: right">
 
 ## Yunshi Wen
 
