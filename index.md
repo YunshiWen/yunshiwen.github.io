@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img src="assets/photo.jpg" width="200" style="float: right">
+<img src="/assets/photo.jpg" width="200" style="float: right">
 
 ## Yunshi Wen
 
