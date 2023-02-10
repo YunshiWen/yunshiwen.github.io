@@ -19,7 +19,9 @@ Ph.D. Student\\
 
 Office: Room 6209, Johnson Engineering Center\\
 Address: 110 8th Street, Troy, New York, 12180\\
-E-mail: weny2@rpi.edu
+E-mail: weny2@rpi.edu\\
+[Github](https://github.com/YunshiWen)\\
+[Google Scholar](https://scholar.google.com/citations?user=ugTcX4MAAAAJ&hl=en)
 
 ## About Me
 
