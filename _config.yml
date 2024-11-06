@@ -21,7 +21,7 @@ repository               : "YunshiWen/yunshiwen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "anime.JPG"
   name             : "Yunshi Wen (文蕴诗)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at Rensselaer Polytechnic Institute. Research interests include machine learning, robotics, and control systems."
@@ -213,16 +213,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
