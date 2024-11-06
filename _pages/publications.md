@@ -16,8 +16,8 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 
 - [Personalized Data-Driven State Models of the Circadian Dynamics in a Biometric Signal](https://par.nsf.gov/biblio/10538310)
-  - Chukwuemeka Ike, **Yunshi Wen**, John T. Wen, Meeko Oishi, Lee Brown, Agung Julius
-  - *46th IEEE International Conference of the The IEEE Engineering in Medicine and Biology Society (EMBC)*, 2024
+  - Chukwuemeka Ike\*, **Yunshi Wen\***, John T. Wen, Meeko Oishi, Lee Brown, Agung Julius
+  - *46th International Conference of the The IEEE Engineering in Medicine and Biology Society (EMBC)*, 2024
   - [[Paper Link]](https://par.nsf.gov/biblio/10538310)
 
 

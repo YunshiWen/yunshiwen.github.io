@@ -11,26 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer and Systems Engineering, Rensselaer Polytechnic Institute, 2025/2026 (expected)
+* B.S. (Dual) in Electrical Engineering, Computer and Systems Engineering, Rensselaer Polytechnic Institute, 2021
+* Minor in Cognitive Science, Rensselaer Polytechnic Institute, 2021
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep. 2021 - Present: Graduate Research Assistant
+  * Rensselaer Polytechnic Institute
+  * Research Topics: Interpretable Machine Learning, Data-Driven State Modeling, Time-Series Analysis, Learning-based Robot Control
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023 - Aug. 2023: Extern at IBM Research
+  * IBM Research, Yorktown Heights, NY
+  * Research Topic: Interpretable Models for Time-Series Analysis
+  * Mentors: Tengfei Ma, Debarun Bhattacharjya, Ronny Luss, Achille Fokoue
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2021 - Dec. 2023: Graduate Teaching Assistant
+  * Rensselaer Polytechnic Institute
+  * Courses:
+    - Fall 2021: ECSE 2610 - Computer Components and Operations
+    - Fall 2021: ECSE 2660 - Computer Architecture, Networks, and Operating Systems 
+    - Spring 2023: ECSE 2410 - Signals and Systems
+    - Fall 2023: ECSE 2610 - Computer Components and Operations
+    - Fall 2023: ENGR 2350 - Embedded Control
+
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
@@ -40,25 +51,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
