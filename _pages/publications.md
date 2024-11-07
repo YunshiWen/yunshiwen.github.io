@@ -29,7 +29,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 - [Weighted Clock Logic Point Process](https://openreview.net/forum?id=YfUICnZMwk7)
   - Ruixuan Yan, **Yunshi Wen**, Debarun Bhattacharjya, Ronny Luss, Tengfei Ma, Achille Fokoue, Anak Agung Julius
-  - *The Eleventh International Conference on Learning Representations (ICLR)*, 2024
+  - *The Eleventh International Conference on Learning Representations (ICLR)*, 2023
   - [[Paper Link]](https://openreview.net/forum?id=YfUICnZMwk7)
 
 
