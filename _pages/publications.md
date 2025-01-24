@@ -9,6 +9,18 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 ## Journal and Conference Papers
 
+- [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://openreview.net/forum?id=n34taxF0TC)
+  - **Yunshi Wen**, Tengfei Ma, Ronny Luss, Debarun Bhattacharjya, Achille Fokoue, Anak Agung Julius
+  - accpted by *The Thirteenth International Conference on Learning Representations (ICLR)*, 2025
+  - Paper and Code will be released soon with the camera-ready version.
+  <!-- - [[Paper Link]](https://arxiv.org/abs/2411.01006), [[Code Link]](https://github.com/YunshiWen/VQShape) -->
+
+- [Data-Driven Modeling for Optimal Control of Circadian Rhythms]
+  - **Yunshi Wen**, Anak Agung Julius
+  - accpted by *The American Control Conference (ACC)*, 2025
+  - Paper and Code will be released soon with the camera-ready version.
+  <!-- - [[Paper Link]](https://arxiv.org/abs/2411.01006), [[Code Link]](https://github.com/YunshiWen/VQShape) -->
+
 - [Abstracted Shapes as Tokens - A Generalizable and Interpretable Model for Time-series Classification](https://arxiv.org/abs/2411.01006)
   - **Yunshi Wen**, Tengfei Ma, Tsui-Wei Weng, Lam M. Nguyen, Agung Julius  
   - *The 38th Conference on Neural Information Processing Systems (NeurIPS)*, 2024
