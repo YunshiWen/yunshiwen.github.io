@@ -25,8 +25,7 @@ Work experience
 * May 2025 - Aug. 2025: Visiting Student Researcher at IBM Research
   * IBM Research, Yorktown Heights, NY
   * Research Topic: Time Series Foundation Model
-  * Mentors: Lam M. Nguyen, Wesley M. Gifford, Chandra Reddy, Kyongmin Yeo, Kanthi Sarpatwar, Roman Vaculin
-, Jayant Kalagnanam
+  * Mentors: Lam M. Nguyen, Wesley M. Gifford, Chandra Reddy, Kyongmin Yeo, Kanthi Sarpatwar, Roman Vaculin, Jayant Kalagnanam
 
 * May 2023 - Aug. 2023: Visiting Student Researcher at IBM Research
   * IBM Research, Yorktown Heights, NY

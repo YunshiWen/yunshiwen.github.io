@@ -15,10 +15,12 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
   - Paper and Code will be released soon with the camera-ready version.
   - [[Paper Link]](https://iclr.cc/virtual/2025/poster/28432), [[Code Link]](https://github.com/YunshiWen/InterpretGatedNetwork)
 
+
 - [Data-Driven Modeling for Optimal Control of Circadian Rhythms](https://ieeexplore.ieee.org/document/11107543)
   - **Yunshi Wen**, Anak Agung Julius
   - accpted by *The American Control Conference (ACC)*, 2025
   - [[Paper Link]](https://ieeexplore.ieee.org/document/11107543)
+
 
 - [Abstracted Shapes as Tokens - A Generalizable and Interpretable Model for Time-series Classification](https://arxiv.org/abs/2411.01006)
   - **Yunshi Wen**, Tengfei Ma, Tsui-Wei Weng, Lam M. Nguyen, Agung Julius  
