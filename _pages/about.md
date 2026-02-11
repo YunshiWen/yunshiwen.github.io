@@ -37,9 +37,9 @@ I am currently working on the following topics/projects:
 - Machine Learning Models for Human Circadian Rhythm Modeling and Entrainment
 
 ## News
-
+- Feb. 2026: Our work on Time Series Foundation Model is now available on [arxiv](https://arxiv.org/abs/2602.06909) and the [Huggingface](https://huggingface.co/ibm-research/patchtst-fm-r1).
 - Jan. 2025: Our paper on [interpretable times series classification](https://openreview.net/forum?id=n34taxF0TC) is accepted by ICLR 2025.
-- Jan. 2025: Our paper on [data-driven circadian rhythm modeling and control]() is accepted by ACC 2025.
+- Jan. 2025: Our paper on [data-driven circadian rhythm modeling and control](https://ieeexplore.ieee.org/document/11107543) is accepted by ACC 2025.
 - Sep. 2024: Our paper on [interpretable time series foundation model](https://arxiv.org/abs/2411.01006) is accepted by NeurIPS 2024.
 - July 2024: Our paper on [data-driven model for circadian rhythm modeling](https://par.nsf.gov/biblio/10538310) is published in EMBC 2024.
 - Dec. 2023: Our paper on [optimal control of discrete-time multivariate point processes](https://css.paperplaza.net/images/temp/CDC/files/1754.pdf) is published in CDC 2023.

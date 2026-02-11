@@ -22,7 +22,13 @@ Work experience
   * Rensselaer Polytechnic Institute
   * Research Topics: Interpretable Machine Learning, Data-Driven State Modeling, Time-Series Analysis, Learning-based Robot Control
 
-* May 2023 - Aug. 2023: Extern at IBM Research
+* May 2025 - Aug. 2025: Visiting Student Researcher at IBM Research
+  * IBM Research, Yorktown Heights, NY
+  * Research Topic: Time Series Foundation Model
+  * Mentors: Lam M. Nguyen, Wesley M. Gifford, Chandra Reddy, Kyongmin Yeo, Kanthi Sarpatwar, Roman Vaculin
+, Jayant Kalagnanam
+
+* May 2023 - Aug. 2023: Visiting Student Researcher at IBM Research
   * IBM Research, Yorktown Heights, NY
   * Research Topic: Interpretable Models for Time-Series Analysis
   * Mentors: Tengfei Ma, Debarun Bhattacharjya, Ronny Luss, Achille Fokoue
