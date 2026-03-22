@@ -1,5 +1,5 @@
 ---
-title: "Time Series Foundation Model"
+title: "Revisiting the Generic Transformer: Deconstructing a Strong Baseline for Time Series Foundation Models"
 collection: publications
 category: manuscripts
 permalink: /publication/ts-foundation-model-r1

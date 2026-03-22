@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile]({{site.author.googl
 
 ## Preprints
 
-- [PatchTST-FM-R1: Time Series Foundation Model](https://arxiv.org/abs/2602.06909)
+- [Revisiting the Generic Transformer: Deconstructing a Strong Baseline for Time Series Foundation Models](https://arxiv.org/abs/2602.06909)
   - Lam M. Nguyen, Wesley M. Gifford, Chandra Reddy, Kyongmin Yeo, Kanthi Sarpatwar, Roman Vaculin, Jayant Kalagnanam, **Yunshi Wen** et al.
   - *arXiv preprint*, 2026
   - [[arXiv]](https://arxiv.org/abs/2602.06909), [[Hugging Face]](https://huggingface.co/ibm-research/patchtst-fm-r1)
