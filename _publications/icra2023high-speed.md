@@ -1,7 +1,7 @@
 ---
 title: "High-speed high-accuracy spatial curve tracking using motion primitives in industrial robots"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/icra2023high-speed
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-05-29

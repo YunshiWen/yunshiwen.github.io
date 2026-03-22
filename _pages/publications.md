@@ -7,18 +7,25 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile]({{site.author.googlescholar}}).
 
+## Preprints
+
+- [PatchTST-FM-R1: Time Series Foundation Model](https://arxiv.org/abs/2602.06909)
+  - Lam M. Nguyen, Wesley M. Gifford, Chandra Reddy, Kyongmin Yeo, Kanthi Sarpatwar, Roman Vaculin, Jayant Kalagnanam, **Yunshi Wen** et al.
+  - *arXiv preprint*, 2026
+  - [[arXiv]](https://arxiv.org/abs/2602.06909), [[Hugging Face]](https://huggingface.co/ibm-research/patchtst-fm-r1)
+
+
 ## Journal and Conference Papers
 
 - [Shedding Light on Time Series Classification using Interpretability Gated Networks](https://iclr.cc/virtual/2025/poster/28432)
   - **Yunshi Wen**, Tengfei Ma, Ronny Luss, Debarun Bhattacharjya, Achille Fokoue, Anak Agung Julius
-  - accpted by *The Thirteenth International Conference on Learning Representations (ICLR)*, 2025
-  - Paper and Code will be released soon with the camera-ready version.
+  - *The Thirteenth International Conference on Learning Representations (ICLR)*, 2025
   - [[Paper Link]](https://iclr.cc/virtual/2025/poster/28432), [[Code Link]](https://github.com/YunshiWen/InterpretGatedNetwork)
 
 
 - [Data-Driven Modeling for Optimal Control of Circadian Rhythms](https://ieeexplore.ieee.org/document/11107543)
   - **Yunshi Wen**, Anak Agung Julius
-  - accpted by *The American Control Conference (ACC)*, 2025
+  - *The American Control Conference (ACC)*, 2025
   - [[Paper Link]](https://ieeexplore.ieee.org/document/11107543)
 
 

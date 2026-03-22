@@ -1,7 +1,7 @@
 ---
 title: "Motion Profile Optimization in Industrial Robots using Reinforcement Learning"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/aim2023motion
 date: 2023-06-28
 venue: '2023 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)'
